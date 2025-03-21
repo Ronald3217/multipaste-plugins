@@ -1,0 +1,8 @@
+{
+    "name": "CustomSpoiler",
+    "description": "Plugin para añadir un BBCode personalizado al multipaste.",
+    "version": "1.0",
+    "website": "https://github.com/ronald3217/",
+    "author": "Ronald Villagrán",
+    "store_url": "https://github.com/ronald3217/"
+}
